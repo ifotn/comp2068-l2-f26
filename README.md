@@ -6,7 +6,9 @@ First Node.js files
 
 `node {filename}` - use Node.js to run a js file
 
-`npm i typescript @types/node` - install libraries to use TypeScript and ts for node.js
+`npm i typescript` - install TypeScript 
+
+`npm i @types/node --save-dev` install ts for node.js as dev dependency
 
 `tsc` - transpile TS to JS (from src to dist directory)
 
